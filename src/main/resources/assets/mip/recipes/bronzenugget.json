@@ -1,0 +1,42 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:bronzeingot"
+    },
+    "1": {
+      "item": "mip:bronzeingot"
+    },
+    "2": {
+      "item": "mip:bronzeingot"
+    },
+    "3": {
+      "item": "mip:bronzeingot"
+    },
+    "4": {
+      "item": "mip:bronzeingot"
+    },
+    "5": {
+      "item": "mip:bronzeingot"
+    },
+    "6": {
+      "item": "mip:bronzeingot"
+    },
+    "7": {
+      "item": "mip:bronzeingot"
+    },
+    "8": {
+      "item": "mip:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "mip:bronze_ingot",
+    "count": 1
+  }
+}

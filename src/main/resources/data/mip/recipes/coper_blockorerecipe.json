@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mip:coper_ore_block"
+    }
+  ],
+  "result": {
+    "item": "mip:coper_ingot",
+    "count": 9
+  }
+}

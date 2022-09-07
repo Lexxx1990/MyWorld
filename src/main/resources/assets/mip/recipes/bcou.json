@@ -1,0 +1,16 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "mip:bronzeingot",
+    "count": 9
+  }
+}

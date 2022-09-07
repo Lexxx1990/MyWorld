@@ -1,0 +1,12 @@
+{
+  "parent": "mip:custom/crafting_table",
+  "textures": {
+    "all": "mip:blocks/oak_log_top",
+    "particle": "mip:blocks/oak_log_top",
+    "0": "mip:blocks/oak_log",
+    "2": "mip:blocks/oak_log_top",
+    "3": "mip:blocks/acacia_log",
+    "4": "mip:blocks/iron_block",
+    "5": "mip:blocks/campfire_log"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mip:custom/golden_coin",
+  "textures": {
+    "2": "mip:blocks/golden_coin",
+    "particle": "mip:items/golden_coin"
+  }
+}

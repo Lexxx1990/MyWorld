@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bronzeingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MalienkoieKolieso"
+      },
+      {
+        "value": "CUSTOM:Coper_Ingot"
+      },
+      {
+        "value": "CUSTOM:MalienkoieKolieso"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bronzeingot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Dvoinoiemalienkoiekolieso"
+    },
+    "name": "nviurvnwruv",
+    "namespace": "mod"
+  }
+}

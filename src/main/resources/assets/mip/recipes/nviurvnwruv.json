@@ -1,0 +1,30 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "mip:bronzeingot"
+    },
+    "3": {
+      "item": "mip:malienkoiekolieso"
+    },
+    "4": {
+      "item": "mip:coper_ingot"
+    },
+    "5": {
+      "item": "mip:malienkoiekolieso"
+    },
+    "7": {
+      "item": "mip:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "mip:dvoinoiemalienkoiekolieso",
+    "count": 1
+  }
+}

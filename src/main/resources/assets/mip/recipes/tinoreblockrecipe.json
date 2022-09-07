@@ -1,0 +1,42 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:tiningot"
+    },
+    "1": {
+      "item": "mip:tiningot"
+    },
+    "2": {
+      "item": "mip:tiningot"
+    },
+    "3": {
+      "item": "mip:tiningot"
+    },
+    "4": {
+      "item": "mip:tiningot"
+    },
+    "5": {
+      "item": "mip:tiningot"
+    },
+    "6": {
+      "item": "mip:tiningot"
+    },
+    "7": {
+      "item": "mip:tiningot"
+    },
+    "8": {
+      "item": "mip:tiningot"
+    }
+  },
+  "result": {
+    "item": "mip:tinoreblock",
+    "count": 1
+  }
+}

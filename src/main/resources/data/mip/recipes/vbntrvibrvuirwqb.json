@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:bronzeingot"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "mip:bronzeingot"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "mip:malienkoie_kolieso"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "6": {
+      "item": "mip:bronzeingot"
+    },
+    "7": {
+      "item": "minecraft:oak_log"
+    },
+    "8": {
+      "item": "mip:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "mip:bolshoie_kolieso",
+    "count": 1
+  }
+}

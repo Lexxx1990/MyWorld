@@ -1,0 +1,7 @@
+{
+  "parent": "mip:custom/bronze_coin",
+  "textures": {
+    "2": "mip:blocks/copper_coin",
+    "particle": "mip:items/bronze_coin"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wooden_slab",
+      "data": 5
+    },
+    "1": {
+      "item": "minecraft:wooden_slab",
+      "data": 5
+    },
+    "2": {
+      "item": "minecraft:wooden_slab",
+      "data": 5
+    },
+    "3": {
+      "item": "mip:tinoreblock"
+    },
+    "4": {
+      "item": "mip:tinoreblock"
+    },
+    "5": {
+      "item": "mip:tinoreblock"
+    }
+  },
+  "result": {
+    "item": "mip:niz",
+    "count": 1
+  }
+}

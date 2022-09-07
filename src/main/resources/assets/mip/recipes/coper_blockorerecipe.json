@@ -1,0 +1,13 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mip:coper_oreblock"
+    }
+  ],
+  "result": {
+    "item": "mip:coper_ingot",
+    "count": 9
+  }
+}

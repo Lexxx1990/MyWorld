@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "mip:tin_ore_block"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "minecraft:oak_log"
+    },
+    "7": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "mip:molot",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "mip:custom/obsidian_coin",
+  "textures": {
+    "2": "mip:blocks/obsidian_coin",
+    "particle": "mip:items/obsidian_coin"
+  }
+}

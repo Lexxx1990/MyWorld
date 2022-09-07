@@ -1,0 +1,47 @@
+{
+  "nigga": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mip:nigga",
+        "stream": false
+      }
+    ]
+  },
+  "gey": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mip:alientin_trykalo_--_ama_ia_ghiei",
+        "stream": false
+      }
+    ]
+  },
+  "sans": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mip:sans",
+        "stream": false
+      }
+    ]
+  },
+  "golden_press_use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mip:gpress",
+        "stream": false
+      }
+    ]
+  },
+  "press_use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mip:bpress",
+        "stream": false
+      }
+    ]
+  }
+}

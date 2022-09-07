@@ -1,0 +1,22 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mip:coper_ingot"
+    },
+    {
+      "item": "mip:coper_ingot"
+    },
+    {
+      "item": "mip:coper_ingot"
+    },
+    {
+      "item": "mip:tiningot"
+    }
+  ],
+  "result": {
+    "item": "mip:bronze_ingot",
+    "count": 1
+  }
+}

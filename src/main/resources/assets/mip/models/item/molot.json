@@ -1,0 +1,7 @@
+{
+  "parent": "mip:custom/molot",
+  "textures": {
+    "0": "mip:blocks/bronze_press",
+    "particle": "mip:items/bronze_press"
+  }
+}

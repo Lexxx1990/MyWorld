@@ -1,0 +1,48 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "1": {
+      "item": "mip:bronzeingot"
+    },
+    "2": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "4": {
+      "item": "mip:bronzeingot"
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "7": {
+      "item": "mip:bronzeingot"
+    },
+    "8": {
+      "item": "minecraft:log",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "mip:korpus",
+    "count": 1
+  }
+}

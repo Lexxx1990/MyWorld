@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "1": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "2": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "3": {
+      "item": "mip:tin_ore_block"
+    },
+    "4": {
+      "item": "mip:tin_ore_block"
+    },
+    "5": {
+      "item": "mip:tin_ore_block"
+    }
+  },
+  "result": {
+    "item": "mip:niz",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:silvernugget"
+    },
+    "1": {
+      "item": "mip:silvernugget"
+    },
+    "2": {
+      "item": "mip:silvernugget"
+    },
+    "3": {
+      "item": "mip:silvernugget"
+    },
+    "4": {
+      "item": "mip:silvernugget"
+    },
+    "5": {
+      "item": "mip:silvernugget"
+    },
+    "6": {
+      "item": "mip:silvernugget"
+    },
+    "7": {
+      "item": "mip:silvernugget"
+    },
+    "8": {
+      "item": "mip:silvernugget"
+    }
+  },
+  "result": {
+    "item": "mip:silveringot",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "mip:custom/base",
+  "textures": {
+    "0": "mip:blocks/golden_press"
+  }
+}

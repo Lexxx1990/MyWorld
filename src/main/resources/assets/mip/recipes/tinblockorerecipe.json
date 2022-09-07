@@ -1,0 +1,13 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mip:tinoreblock"
+    }
+  ],
+  "result": {
+    "item": "mip:tiningot",
+    "count": 9
+  }
+}

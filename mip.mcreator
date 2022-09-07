@@ -1,0 +1,585 @@
+{
+  "mod_elements": [
+    {
+      "name": "RPmisc",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coper_Ore",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coper_OreBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coper_Ingot",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coper_OreBlockRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coper_BlockOreRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Coperingot",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronzecoin",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Silvercoin",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Goldencoin",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "TinOreBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "TinOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "TinBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronze",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Tiningotsmellting",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronze_oIngot",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bronze_ingot"
+    },
+    {
+      "name": "Goldenpressblock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "GoldenpressblockUpdateTick",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gpress",
+      "type": "gui",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronzeingot",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronzenugget",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bronzepress",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bpressgui",
+      "type": "gui",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "BressProcedure",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RPcraftingtable",
+      "type": "gui",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Crafting",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftingtableprocedure",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BolshoieKolieso",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "MalienkoieKolieso",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Dvoinoiemalienkoiekolieso",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Niz",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "KOrpus",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Golovka",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Golovkacraft",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "KOrpuscraft",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Vbntrvibrvuirwqb",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Nviurvnwruv",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Wrvmrwqeiugwhnviyhfg",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Wkjlvnwqrkvfghmwl",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Gtrgtg",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Silveringot",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Silvernugget",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Silver",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Candezit",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "MolotItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Molot",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bspress",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Rmolot",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "RBSpress",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Candesit",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bcou",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Dsaasd",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Obsidiancoin",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidiancoin"
+    },
+    {
+      "name": "Asd",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "asd"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "nigga",
+      "files": [
+        "nigga"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "gey",
+      "files": [
+        "alientin_trykalo_--_ama_ia_ghiei"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "sans",
+      "files": [
+        "sans"
+      ],
+      "category": "master"
+    },
+    {
+      "name": "golden_press_use",
+      "files": [
+        "gpress"
+      ],
+      "category": "block"
+    },
+    {
+      "name": "press_use",
+      "files": [
+        "bpress"
+      ],
+      "category": "block"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.mip.golovka": "head piston press",
+      "item.dvoinoiemalienkoiekolieso.name": "������� ��������� ������",
+      "item.bspress.name": "�������� ��������� ��� ������",
+      "item.mip.bspress": "bronze press",
+      "item.mip.tin_ingot": "Tin ingot",
+      "item.mip.k_orpus": "base",
+      "block.mip.tin_ore": "Tin ore",
+      "item.korpus.name": "������",
+      "item.goldencoin.name": "������� ������",
+      "item.bronzecoin.name": "��������� ������",
+      "item.bronzeingot.name": "��������� �������",
+      "item.mip.silvernugget": "silver nugget",
+      "block.mip.goldenpressblock": "Golden press",
+      "tile.goldenpressblock.name": "������� �����",
+      "item.silvernugget.name": "���������� �������",
+      "item.mip.obsidiancoin": "Obsidian coin",
+      "tile.coper_ore.name": "������ ����",
+      "block.mip.coper_ore_block": "Copper block",
+      "item.mip.niz": "niz",
+      "item.mip.silvercoin": "Silver coin",
+      "item.golovka.name": "������� ������",
+      "item.bolshoiekolieso.name": "������� ������",
+      "item.molot.name": "����� �������",
+      "item.mip.coper_ingot": "Copper ingot",
+      "tile.crafting.name": "������ ��������",
+      "tile.candesit.name": "������������� �������",
+      "item.silvercoin.name": "���������� ������",
+      "item.mip.bronze_ingot": "bronze ingot",
+      "item.mip.silveringot": "silver ingot",
+      "item.bronze_ingot.name": "��������� ������",
+      "item.mip.molot": "hummer",
+      "item.tiningot.name": "�������� ������",
+      "tile.bronzepress.name": "����� ��� ������� �����",
+      "item.coper_ingot.name": "������ ������",
+      "item.niz.name": "���",
+      "item.mip.bronzecoin": "Bronze coin",
+      "item.mip.bolshoie_kolieso": "������� ������",
+      "tile.tinore.name": "��������� ����",
+      "tile.tinoreblock.name": "���� �����",
+      "item.silveringot.name": "���������� ������",
+      "itemGroup.tabrpmisc": "������",
+      "block.mip.candesit": "hardened andesite",
+      "tile.coper_oreblock.name": "���� ����",
+      "item.mip.goldencoin": "Golden coin",
+      "item.mip.dvoinoiemalienkoiekolieso": "double small whell",
+      "block.mip.crafting": "Carpenter\u0027s workbench",
+      "block.mip.coper_ore": "Copper ore",
+      "item.mip.bronzeingot": "Bronze Ingot",
+      "item.mip.malienkoie_kolieso": "big whell",
+      "block.mip.tin_ore_block": "Tin ore block",
+      "item.malienkoiekolieso.name": "��������� ������",
+      "block.mip.bronzepress": "Bronze press",
+      "item.mip.asd": "Asd",
+      "itemGroup.tabr_pmisc": "MM misc"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mip",
+    "modName": "rp_mip_mod",
+    "version": "1.0.0",
+    "author": "Lexxx, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mip",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

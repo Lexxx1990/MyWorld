@@ -1,0 +1,17 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:anvil",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "mip:bspress",
+    "count": 1
+  }
+}

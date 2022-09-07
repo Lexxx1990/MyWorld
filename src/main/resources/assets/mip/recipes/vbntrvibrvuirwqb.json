@@ -1,0 +1,46 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mip:bronzeingot"
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "2": {
+      "item": "mip:bronzeingot"
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "4": {
+      "item": "mip:malienkoiekolieso"
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "6": {
+      "item": "mip:bronzeingot"
+    },
+    "7": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "8": {
+      "item": "mip:bronzeingot"
+    }
+  },
+  "result": {
+    "item": "mip:bolshoiekolieso",
+    "count": 1
+  }
+}

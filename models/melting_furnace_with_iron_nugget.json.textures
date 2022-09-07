@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tt",
+        "2": "tttt",
+        "3": "iron_nugget"
+      },
+      "name": "default"
+    }
+  }
+}

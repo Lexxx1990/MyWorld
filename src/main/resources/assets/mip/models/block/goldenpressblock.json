@@ -1,0 +1,8 @@
+{
+  "parent": "mip:custom/goden_press",
+  "textures": {
+    "all": "mip:blocks/golden_press",
+    "particle": "mip:blocks/golden_press",
+    "0": "mip:blocks/golden_press"
+  }
+}

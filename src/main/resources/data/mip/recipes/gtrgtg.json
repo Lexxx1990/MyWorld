@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crafting_table"
+    },
+    "1": {
+      "item": "mip:tin_ore_block"
+    },
+    "2": {
+      "item": "minecraft:crafting_table"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "6": {
+      "item": "minecraft:oak_log"
+    },
+    "8": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "mip:crafting",
+    "count": 1
+  }
+}

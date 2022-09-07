@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tt",
+        "2": "tttt",
+        "3": "fire_1",
+        "4": "ttt_anim",
+        "5": "anim_nugget"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "mip:custom/bronze_press",
+  "textures": {
+    "all": "mip:blocks/bronze_press",
+    "particle": "mip:blocks/bronze_press",
+    "0": "mip:blocks/bronze_press"
+  }
+}

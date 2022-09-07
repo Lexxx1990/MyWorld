@@ -1,0 +1,46 @@
+{
+  "group": "mip",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "4": {
+      "item": "mip:coper_ingot"
+    },
+    "5": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:log",
+      "data": 32767
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mip:malienkoiekolieso",
+    "count": 1
+  }
+}

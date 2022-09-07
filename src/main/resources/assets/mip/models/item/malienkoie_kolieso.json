@@ -1,0 +1,7 @@
+{
+  "parent": "mip:custom/swhell",
+  "textures": {
+    "0": "mip:blocks/golden_press",
+    "particle": "mip:items/golden_press"
+  }
+}

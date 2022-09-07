@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tt",
+        "2": "tttt"
+      },
+      "name": "default"
+    }
+  }
+}

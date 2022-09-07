@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mip:blocks/candesite",
+    "up": "mip:blocks/candesite",
+    "north": "mip:blocks/candesite",
+    "east": "mip:blocks/candesite",
+    "south": "mip:blocks/candesite",
+    "west": "mip:blocks/candesite",
+    "particle": "mip:blocks/candesite"
+  }
+}

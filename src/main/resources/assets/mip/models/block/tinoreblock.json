@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mip:blocks/tin_ore_block",
+    "particle": "mip:blocks/tin_ore_block"
+  }
+}
