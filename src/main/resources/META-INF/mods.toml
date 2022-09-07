@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Not specified"
+license="Academic Free License v3.0"
 
 [[mods]]
 modId="mip"
@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="rp_mip_mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Lexxx, MCreator"
+authors="Lexxx, fire_gaming"
 
 [[dependencies.mip]]
     modId="minecraft"
@@ -18,5 +18,11 @@ authors="Lexxx, MCreator"
     side="BOTH"
 
 
+[[dependencies.mip]]
+    modId="mcreator_link"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
 
