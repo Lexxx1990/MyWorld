@@ -454,14 +454,6 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "obsidiancoin"
-    },
-    {
-      "name": "Asd",
-      "type": "item",
-      "sortid": 61,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "asd"
     }
   ],
   "variable_elements": [],
@@ -556,7 +548,6 @@
       "block.mip.tin_ore_block": "Tin ore block",
       "item.malienkoiekolieso.name": "��������� ������",
       "block.mip.bronzepress": "Bronze press",
-      "item.mip.asd": "Asd",
       "itemGroup.tabr_pmisc": "MM misc"
     }
   },
