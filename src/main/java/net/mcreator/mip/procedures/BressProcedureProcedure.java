@@ -63,7 +63,7 @@ public class BressProcedureProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == Bronze_oIngotItem.block) {
-			if (Math.random() < 0.2) {
+			if (Math.random() < 0.05) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {
@@ -173,7 +173,7 @@ public class BressProcedureProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == SilveringotItem.block) {
-			if (Math.random() < 0.1) {
+			if (Math.random() < 0.01) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {

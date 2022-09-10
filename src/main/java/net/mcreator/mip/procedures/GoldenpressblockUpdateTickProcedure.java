@@ -59,7 +59,7 @@ public class GoldenpressblockUpdateTickProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == Items.GOLD_INGOT) {
-			if (Math.random() < 0.05) {
+			if (Math.random() < 0.001) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {
