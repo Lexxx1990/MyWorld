@@ -55,7 +55,7 @@ public class GpressGuiWindow extends ContainerScreen<GpressGui.GuiContainerMod> 
 		this.blit(ms, k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 
 		Minecraft.getInstance().getTextureManager().bindTexture(new ResourceLocation("mip:textures/gui2.png"));
-		this.blit(ms, this.guiLeft + 75, this.guiTop + 14, 0, 0, 256, 256, 256, 256);
+		this.blit(ms, this.guiLeft + 65, this.guiTop + 15, 0, 0, 256, 256, 256, 256);
 
 		RenderSystem.disableBlend();
 	}

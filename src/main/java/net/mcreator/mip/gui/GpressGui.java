@@ -131,7 +131,7 @@ public class GpressGui extends MipModElements.ModElement {
 					return false;
 				}
 			}));
-			this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 133, 43) {
+			this.customSlots.put(2, this.addSlot(new SlotItemHandler(internal, 2, 134, 43) {
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;

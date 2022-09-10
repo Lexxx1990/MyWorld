@@ -254,6 +254,17 @@
           "x": 207,
           "y": 40
         }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "?",
+          "width": 30,
+          "height": 20,
+          "name": "?",
+          "x": 394,
+          "y": 2
+        }
       }
     ],
     "gridSettings": {

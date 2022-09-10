@@ -16,8 +16,8 @@
           "image": "gui2.png",
           "use1Xscale": false,
           "name": "gui2.png",
-          "x": 201,
-          "y": 51
+          "x": 191,
+          "y": 52
         }
       },
       {
@@ -52,7 +52,7 @@
           "disableStackInteraction": false,
           "dropItemsWhenNotBound": true,
           "name": "Slot #2",
-          "x": 258,
+          "x": 259,
           "y": 79
         }
       },

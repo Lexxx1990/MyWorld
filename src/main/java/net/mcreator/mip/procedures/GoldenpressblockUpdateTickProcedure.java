@@ -59,7 +59,7 @@ public class GoldenpressblockUpdateTickProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == Items.GOLD_INGOT) {
-			if (Math.random() < 0.001) {
+			if (Math.random() < 0.03) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {
@@ -101,11 +101,11 @@ public class GoldenpressblockUpdateTickProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:golden_press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:golden_press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			} else {
 				{
@@ -149,11 +149,11 @@ public class GoldenpressblockUpdateTickProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:golden_press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:golden_press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			}
 		}

@@ -63,7 +63,7 @@ public class BressProcedureProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == Bronze_oIngotItem.block) {
-			if (Math.random() < 0.05) {
+			if (Math.random() < 0.1) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {
@@ -105,11 +105,11 @@ public class BressProcedureProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			} else {
 				{
@@ -153,11 +153,11 @@ public class BressProcedureProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			}
 		}
@@ -173,7 +173,7 @@ public class BressProcedureProcedure {
 				return _retval.get();
 			}
 		}.getItemStack(new BlockPos(x, y, z), (int) (0))).getItem() == SilveringotItem.block) {
-			if (Math.random() < 0.01) {
+			if (Math.random() < 0.055) {
 				{
 					TileEntity _ent = world.getTileEntity(new BlockPos(x, y, z));
 					if (_ent != null) {
@@ -215,11 +215,11 @@ public class BressProcedureProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			} else {
 				{
@@ -263,11 +263,11 @@ public class BressProcedureProcedure {
 				if (world instanceof World && !world.isRemote()) {
 					((World) world).playSound(null, new BlockPos(x, y, z),
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1);
+							SoundCategory.BLOCKS, (float) 1, (float) 1);
 				} else {
 					((World) world).playSound(x, y, z,
 							(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("mip:press_use")),
-							SoundCategory.NEUTRAL, (float) 1, (float) 1, false);
+							SoundCategory.BLOCKS, (float) 1, (float) 1, false);
 				}
 			}
 		}
